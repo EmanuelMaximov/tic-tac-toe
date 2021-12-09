@@ -18,13 +18,13 @@ Playing vs Computer when the computer has an pre-built "AI" with very high winni
 
 ## What is next?
 
--Adding an option to choose Noughts (O) to start the game
+- Adding an option to choose Noughts (O) to start the game
 
--Adding an option to choose computer's difficulty level
+- Adding an option to choose computer's difficulty level
 
--Adding an effect when someone wins
+- Adding an effect when someone wins
 
--Adding an AI with Neural Network that predicts the probability to win for every square on the board and picks the one with the highest probability
+- Adding an AI with Neural Network that predicts the probability to win for every square on the board and picks the one with the highest probability
 
 
 
