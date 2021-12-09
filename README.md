@@ -9,7 +9,7 @@ Tic-tac-toe game with 2 modes: "Play a Friend" and "Computer".
 ### Play a Friend
 Playing a friend with a score table:
 
-![git clone URL](https://github.com/EmanuelMaximov/tic-tac-toe/tree/master/MyCPPfirstGame/Play a friend.png?raw=true)
+![Computer mode URL](https://github.com/EmanuelMaximov/tic-tac-toe/tree/master/MyCPPfirstGame/Computer.png?raw=true)
 
 
 
